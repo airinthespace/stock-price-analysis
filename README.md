@@ -12,7 +12,7 @@ The primary objective of this research is to leverage the capabilities of the Ra
 
 Each dataset included in this project offers unique insights into financial markets:
 
-NASDAQ 100: This dataset primarily represents technology-based stocks, making it valuable for analyzing trends in the technology sector.
+* NASDAQ 100: This dataset primarily represents technology-based stocks, making it valuable for analyzing trends in the technology sector.
 
 S&P 500: This dataset provides a generalized view of the stock market, covering a wide range of industries and reflecting the overall performance of the U.S. economy.
 
