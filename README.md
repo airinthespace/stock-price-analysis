@@ -13,9 +13,13 @@ The primary objective of this research is to leverage the capabilities of the Ra
 Each dataset included in this project offers unique insights into financial markets:
 
 NASDAQ 100: This dataset primarily represents technology-based stocks, making it valuable for analyzing trends in the technology sector.
+
 S&P 500: This dataset provides a generalized view of the stock market, covering a wide range of industries and reflecting the overall performance of the U.S. economy.
+
 QQQ: This dataset represents an ETF that tracks the NASDAQ 100 index. It is crucial for gauging the performance of influential tech giants.
+
 SPY: This dataset focuses on an ETF that tracks the S&P 500 index, providing a broader perspective on the large-cap U.S. stock market.
+
 The inclusion of ETFs like QQQ and SPY allows for a more comprehensive understanding of market dynamics and investor behavior, as these instruments are widely used for both speculative trading and long-term investment strategies.
 
 **Conclusion**
